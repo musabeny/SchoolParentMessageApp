@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">School Message App</string>
+
+
+    <string name="signInInstruction">Please provide your teacher ID number</string>
+    <string name="idHint">Enter your ID</string>
+    <string name="btnSignIn">SignIn</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="phoneNumber">Parent Phonenumber</string>
+</resources>
